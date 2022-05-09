@@ -1,0 +1,31 @@
+id,profession,profession_kr,description,status
+0,Rancher,목축업자,동물에서 나온 상품들의 가치가 10% 증가,FALSE
+1,Tiller,경작인,작물의 가치가 10% 증가,TRUE
+2,Coopmaster,닭장주인,"닭,오리,토끼들의 친밀도 속도 증가 및 인큐베이터 시간 50% 감소",FALSE
+3,Shepherd,양치기,"소, 양, 돼지 들의 친밀도 속도 증가 및 양이 더 빨리 털을 생산",FALSE
+4,Artisan,생산자,"와인, 치즈 등 2차 가공품의 가치가 50% 증가",TRUE
+5,Agriculturist,전문농부,모든 작물들이 10% 더 빨리 자람,FALSE
+6,Fisher,낚시꾼,생선류의 가치 25% 증가,FALSE
+7,Trapper,트랩꾼,꽃게 통발을 만드는 재료의 감소,TRUE
+8,Angler,뛰어난 낚시꾼,생선류의 가치 50% 증가,FALSE
+9,Pirate,해적,낚시 중 보물상자 발견확률 2배 상승,FALSE
+10,Mariner,뱃사람,꽃게 통발이 쓰레기를 잡지 않음,FALSE
+11,Luremaster,미끼의 달인,꽃게 통발에 미끼를 설치하지 않아도 됨,TRUE
+12,Forester,숲지기,나무의 가치 50% 증가,FALSE
+13,Gatherer,채집가,채집아이템을 채집시 아이템이 두개씩 나올 확률 증가,TRUE
+14,Lumberjack,벌목꾼,평범한 나무가 가끔 단단한 나무를 제공,FALSE
+15,Tapper,수액채집가,시럽류의 가치가 25% 증가,FALSE
+16,Botanist,식물학자,채집아이템이 항상 금별을 달고 나옴,FALSE
+17,Tracker,추적자,맵 근처의 채집아이템과 지렁이의 위치가 표시 됨,TRUE
+18,Miner,광부,광맥당 1개의 광물이 추가로 나옴,FALSE
+19,Geologist,지질학자,보석류 채집시 2개식 나올 확률이 증가,TRUE
+20,Blacksmith,대장장이,각종 괴의 가치가 25% 증가,FALSE
+21,Prospector,광산탐색가,석탄이 2배로 나옴,FALSE
+22,Excavator,발굴가,정동석 2배로 나옴,FALSE
+23,Gemologist,보석연구가,보석의 가치가 30% 증가,TRUE
+24,Fighter,격투가,모든 공격 데미지 10% 증가 및 최대 체력 15 증가,TRUE
+25,Scout,정찰병,치명타 확률 50% 증가,FALSE
+26,Brute,야만인,데미지 15% 증가,FALSE
+27,Defender,방어자,최대 체력 25 증가,TRUE
+28,Acrobat,곡예사,특수공격 (우클릭)의 딜레이가 절반으로 감소,FALSE
+29,Desperado,무법자,치명타 적중시 상대가 즉사,
