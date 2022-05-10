@@ -1,2 +1,2 @@
-# StardewValley_Dashboard
-스타듀밸리 세이브파일 데이터 대시보드 어플리케이션
+# my-stardew-valley
+스타듀밸리 개인 세이브파일 데이터 파싱 및 분석
